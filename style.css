@@ -1,0 +1,169 @@
+.dark {
+    background-color: black;
+    width: 100%;
+    height: 3em;
+}
+
+@media screen and (max-width:490px) {
+    .dark {
+        width: 13.8em;
+    }
+}
+
+.flickrlogo {
+    margin-left: 7em;
+    margin-top: 0.5em;
+}
+
+@media screen and (max-width:490px) {
+    .flickrlogo {
+        margin-left: 2em;
+    }
+}
+
+.signuppage {
+    width: 25em;
+    background-color: white;
+    height: 42em;
+    margin-left: 35%;
+    margin-top: 1em;
+}
+
+@media screen and (max-width:490px) {
+    .signuppage {
+        margin-left: 0em;
+        width: 100%;
+    }
+}
+
+.seconddot {
+    margin-left: 12em;
+    margin-top: 1em;
+}
+
+@media screen and (max-width:490px) {
+    .seconddot {
+        margin-left: 6em;
+    }
+}
+
+.sign {
+    margin-left: 3em;
+    font-size: 2em;
+}
+
+@media screen and (max-width:490px) {
+    .sign {
+        font-size: 1.5em;
+        margin-left: 1em;
+    }
+}
+
+.input {
+    padding: 2em;
+    margin-top: -2em;
+}
+
+@media screen and (max-width:490px) {
+    .input {
+        padding: 0.7em;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+.inpone {
+    width: 24em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    border: 1px solid;
+}
+
+@media screen and (max-width:490px) {
+    .inpone {
+        width: 13.5em;
+    }
+}
+
+.inptwo {
+    width: 24em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    border: 1px solid;
+}
+
+
+@media screen and (max-width:490px) {
+    .inptwo {
+        width: 13.5em;
+    }
+}
+
+
+.inpthree {
+    width: 24em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    border: 1px solid;
+}
+
+@media screen and (max-width:490px) {
+    .inpthree {
+        width: 13.5em;
+    }
+}
+
+.inpfour {
+    width: 24em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    border: 1px solid;
+}
+
+@media screen and (max-width:490px) {
+    .inpfour {
+        width: 13.5em;
+    }
+}
+
+.inpfive {
+    width: 24em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    border: 1px solid;
+}
+
+@media screen and (max-width:490px) {
+    .inpfive {
+        width: 13.5em;
+    }
+}
+
+.signup {
+    width: 20em;
+    padding: 1em;
+    height: auto;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    background-color: blue;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+@media screen and (max-width:490px) {
+    .signup {
+        width: 11em;
+    }
+}

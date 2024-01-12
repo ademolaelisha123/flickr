@@ -1,0 +1,131 @@
+.dark {
+    background-color: black;
+    width: 100%;
+    height: 5em;
+}
+
+.flogo {
+margin-left: 2em;
+margin-top: 1em;
+}
+
+.input {
+    margin-left: 2em;
+    font-size: 1em;
+    margin-top: 1.5em;
+    width: 45em;
+    height: 2.5em;
+    border-radius: 0.5em;
+    text-align: left;
+    padding-left: 2.5em;
+    margin-left: -3em;
+}
+
+@media screen and (max-width:490px) {
+    .input {
+        display: none;
+    }
+}
+
+.search {
+    width: 2em;
+    position: absolute;
+    height: 2em;
+    margin-top: -2em;
+    margin-left: 15em;
+    font-weight: bolder;
+}
+
+@media screen and (max-width:490px) {
+    .search {
+        background-color: white;
+    }
+}
+
+
+.login {
+  margin-left: 45em;
+  color: white;
+  width: 5em;
+}
+
+
+
+.signup {
+    margin-left: 50em;
+    color: white;
+    width: 7em;
+    margin-top: -2.9em;
+    border: none;
+  }
+
+
+  #fimage {
+    height: 34em;
+  }
+
+  .second {
+    position: relative;
+    text-align: center;
+  }
+
+  .words {
+    margin-top: -7em;
+    font-size: 4em;
+    color: white;
+  }
+
+  @media screen and (max-width:490px) {
+    .words {
+        font-size: 3em;
+    }
+}
+
+
+  .swords {
+    margin-top: 1.5em;
+    color: white;
+  }
+
+  @media screen and (max-width:490px) {
+    .swords {
+        display: none;
+    }
+}
+
+
+  .button {
+    border: none;
+    width: 9em;
+    height: 2.5em;
+    padding: 0.5em;
+    font-size: 1.5em;
+    font-weight: bold;
+    border-radius: 0.2em;
+    margin-top: 1em;
+  }
+
+  .sdark {
+    background-color: black;
+    width: 100%;
+    height: 4em;
+    margin-top: 10.5em;
+    border-radius: 0.5em;
+    justify-content: center;
+  }
+
+  @media screen and (max-width:490px) {
+    .sdark {
+        height: 6em;
+    }
+}
+
+
+
+  .downbutton {
+    color: white;
+    padding: 1em;
+    margin-left: 1em;
+    font-size: small;
+    
+  }
